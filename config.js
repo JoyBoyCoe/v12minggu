@@ -3,40 +3,41 @@
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
 // RECODE BY RIEL OFC
+// RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6289515576937'] 
-global.mods = ['6289515576937'] 
-global.prems = ['6289515576937'] 
+global.owner = ['6281220181640'] 
+global.mods = ['6281220181640'] 
+global.prems = ['6281220181640'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Lutfi_Lurr'
-global.numberowner = '6289515576937'
-global.instagram = 'https://instagram.com/Lutfi_Lurr'
-global.github = 'https://github.com/GempyTon'
-global.dana = '0895376380503'
-global.pulsa = '0895376380503'
+global.nameowner = 'TAA ✰'
+global.numberowner = '6281220181640'
+global.instagram = ''
+global.github = ''
+global.dana = '081382606545'
+global.pulsa = '081382606545'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'LUTFI-BOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.price1 = '-'
+global.namebot = 'DG_BOT'
+global.gc = ''
+global.web = '' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = ''
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.postimg.cc/4NCGBhPk/lutfi.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/4NCGBhPk/lutfi.jpg' //ini juga ganti 
+global.fotonya1 = 'https://www.pinterest.com/pin/576812664786868526/' //ganti jadi foto bot mu
+global.fotonya2 = 'https://www.pinterest.com/pin/576812664786868526/' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻LUTFI-BOT'
+global.wm = '↻DG_BOT𝙼𝙳'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Lutfi_Lurr×፝֟͜×'
-global.wm3 = 'ᯤ LUTFI'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ARIF ×፝֟͜×'
+global.wm3 = 'ᯤ ARIF 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://i.postimg.cc/4NCGBhPk/lutfi.jpg'
+global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu Sedang Proses...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
@@ -44,7 +45,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = 'LUTFI-BOT✵'
+global.author = '@ARIF✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
